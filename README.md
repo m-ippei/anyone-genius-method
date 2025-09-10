@@ -213,3 +213,5 @@
 5. **継続の工夫**：自分が話したい趣味や好きな技術テーマを題材に英会話すると楽しく続けられる
 
 ---
+
+[その他の事例:英会話学習・エンジニアスキルの習得、生成 AI 用プロンプト](https://github.com/m-ippei/anyone-genius-method/tree/main/more)
