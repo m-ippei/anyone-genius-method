@@ -218,4 +218,4 @@
 
 [その他の事例:英会話学習・エンジニアスキルの習得、生成 AI 用プロンプト](https://github.com/m-ippei/anyone-genius-method/tree/main/more)
 
-[筆者による自覚成長モデルの PDF 資料](https://github.com/m-ippei/anyone-genius-method/tree/main/author-experiences-samples/pdf)
+[筆者による自覚成長モデルの事例 PDF 資料](https://github.com/m-ippei/anyone-genius-method/tree/main/author-experiences-samples/pdf)
