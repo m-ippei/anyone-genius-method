@@ -1,8 +1,10 @@
 # 誰でも天才メソッド
 
+![method_logo](resources/method_logo.png)
+
 ### 1. 成長の自覚モデル
 
-成長とは「昨日までできなかったことが、今日できるようになること」と定義します。
+成長とは「出来なかったことが出来るようになる」と定義します。
 できることが 1 つ増えたら、それが成長の証です。
 
 ---
@@ -215,3 +217,5 @@
 ---
 
 [その他の事例:英会話学習・エンジニアスキルの習得、生成 AI 用プロンプト](https://github.com/m-ippei/anyone-genius-method/tree/main/more)
+
+[筆者による自覚成長モデルの PDF 資料](https://github.com/m-ippei/anyone-genius-method/tree/main/author-experiences-samples/pdf)
